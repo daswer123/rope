@@ -1,11 +1,11 @@
-# THIS IS NOT OFFICIAL REPOSITORY. ORIGINAL REPO WAS DELETED AND THE OWNER IS NOT ANSWERING
-## anyway, thanks [hillobar](https://github.com/Hillobar) for creating rope, please answer to us, did someone kidnap you?
-## Richard Discord link: [Discord](https://discord.gg/hzrJBGPpgN)
-### The repo is not maintained, as Im developing my own tool, called [FastFaceSwap](https://github.com/RichardErkhov/FastFaceSwap) (actually rope was inspired by it, he told me). But I will help with troubleshooting if you have any issues.
+# THIS IS NOT OFFICIAL REPOSITORY. ORIGINAL REPO WAS DELETED AND THE OWNER
+## anyway, thanks [hillobar](https://github.com/Hillobar) for creating rope
+## The author said that he will no longer support the project. 
 
-#### I do not hape backup of images, sorry
+![image](https://github.com/daswer123/rope/assets/22278673/1d130fa3-00f1-438b-b61b-6933d0b47e57)
 
-
+## I am not going to develop the project, I keep it as a backup.
+## Additional files can be found in the releases
 
 # Rope
 Rope implements the insightface inswapper_128 model with a helpful GUI.
